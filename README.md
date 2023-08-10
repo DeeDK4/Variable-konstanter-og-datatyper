@@ -1,1 +1,0 @@
-# Variable-konstanter-og-datatyper
