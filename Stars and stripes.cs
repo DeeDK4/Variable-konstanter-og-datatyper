@@ -5,7 +5,8 @@ namespace StarsAndStripes
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
+            //jeg har prøvet i lang tid nu, men kunne ikke få det til at virke, så det  her var mit bedste.
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.White;
